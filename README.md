@@ -11,7 +11,7 @@
 <img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="128" height="128"/>
 </p>
  <p align="center">
-<a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title=" RENZ OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://wa.me/6283144670363"><img title="Author" src="https://img.shields.io/badge/Author-JAROT OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -77,8 +77,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Alpiii22/oscar-md-v4
-$ cd oscar-md-v4
+$ git clone https://github.com/Yantogntng/Renz-md-v4
+$ cd Renz-md-v4
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -114,14 +114,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & OSCARBOT-MD]
+[ INSTALLING NODEJS & RENZ-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Alpiii22/oscar-md-v4
-cd oscar-md-v4
+git clone https://github.com/Yantogntng/Renz-md-v4
+cd Renz-md-v4
 npm install
 npm update
 ```
@@ -136,8 +136,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Alpiii22/oscar-md-v4
-cd oscar-md-v4
+git clone https://github.com/Yantogntng/Renz-md-v4
+cd Renz-md-v4
 npm install
 npm update
 ```
